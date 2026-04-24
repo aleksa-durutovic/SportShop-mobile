@@ -47,14 +47,14 @@ Flutter mobilna aplikacija za kupovinu sportskih suplemenata, povezana sa Larave
 
 ### Backend
 ```bash
-cd C:\Users\AleksA\StudioProjects\sport-shop-backend
+cd C:\StudioProjects\sport-shop-backend
 php artisan optimize:clear
 php artisan serve --host=0.0.0.0 --port=8000
 ```
 
 ### Frontend
 ```bash
-cd C:\Users\AleksA\StudioProjects\projekat
+cd C:\StudioProjects\projekat
 flutter clean
 flutter pub get
 flutter run
